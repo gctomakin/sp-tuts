@@ -1,0 +1,9 @@
+{
+  "name": "sp-tuts",
+  "version": "1.0.0",
+  "author": "Gian Tomakin",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "mustache": "~2.1.3"
+  }
+}
